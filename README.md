@@ -1,0 +1,2 @@
+# reciptor
+Receipt debt calculator
